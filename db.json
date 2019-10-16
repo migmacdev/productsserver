@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "productName": "The Last Of Us",
+      "productPrice": "60",
+      "productImageUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r7f.jpg"
+    },
+    {
+      "id": 1,
+      "productName": "Titanfall 2",
+      "productPrice": "35",
+      "productImageUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/fhbeilnghyhhmjqhinqa.jpg"
+    },
+    {
+      "id": 2,
+      "productName": "Metal Gear Solid V",
+      "productPrice": "45",
+      "productImageUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1pjc.jpg"
+    },
+    {
+      "id": 3,
+      "productName": "Ni no kuni II",
+      "productPrice": "25",
+      "productImageUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/hjkzqjuawa3c3hzwonio.jpg"
+    }
+  ]
+}
