@@ -23,6 +23,42 @@
       "productName": "Ni no kuni II",
       "productPrice": "25",
       "productImageUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/hjkzqjuawa3c3hzwonio.jpg"
+    },
+    {
+      "id": 4,
+      "productName": "The Order: 1886",
+      "productPrice": "15",
+      "productImageUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1hbj.jpg"
+    },
+    {
+      "id": 5,
+      "productName": "Batman: Arkham Knight",
+      "productPrice": "10",
+      "productImageUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nh1.jpg"
+    },
+    {
+      "id": 6,
+      "productName": "God of War",
+      "productPrice": "55",
+      "productImageUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r6u.jpg"
+    },
+    {
+      "id": 7,
+      "productName": "Sekiro: Shadows Die Twice",
+      "productPrice": "50",
+      "productImageUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1j0g.jpg"
+    },
+    {
+      "id": 8,
+      "productName": "Middle-earth: Shadow of War",
+      "productPrice": "22",
+      "productImageUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/xjqnuckrivp1iwvpneh5.jpg"
+    },
+    {
+      "id": 9,
+      "productName": "Dragon Ball FighterZ",
+      "productPrice": "35",
+      "productImageUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nih.jpg"
     }
   ]
 }
